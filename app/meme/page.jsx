@@ -679,11 +679,19 @@ const MemeGenrator = () => {
 const prompt = `
 Given the meme template "${memeName}" create a meme related to the topic "${promptO}", create two engaging and relevant captions for a meme. Follow these guidelines:
 
-2. Caption 1:
--Start with a single hashtag (#) followed by a space, then a concise, catchy caption directly tied to the topic or product.
--Ensure that if the hashtag contains multiple words, they are separated by spaces (e.g., "# I love goats" not "#Ilovegoats").
--Aim for a caption that piques interest, highlights a key aspect, or showcases value.
--Keep it short and impactful, ideally under 10 words.
+Caption 1:
+Begin with the @ symbol, followed by a space.
+Create a short, powerful phrase (3-5 words) that captures the essence or primary benefit of the product.
+Ensure there is a space between each word, including between the @ and the first word.
+Choose strong, evocative words that resonate with the target audience.
+Aim for clarity and impact. The meaning should be immediately clear.
+Think of it as a concise slogan where each word stands distinctly.
+Example outputs:
+"@ Silence Mastered At Last"
+"@ Brew Your Digital Dream"
+"@ Skin Care Reimagined Entirely"
+"@ Taste Triumphs Calorie Cuts"
+"@ Sweat Smart Train Smarter"
    
 
 2. Caption 2:
@@ -699,11 +707,11 @@ Given the meme template "${memeName}" create a meme related to the topic "${prom
    - Aim for a caption that is engaging, informative, and memorable.
 
 Format your response as:
-# Caption1 text here
+@ Caption1 text here
 ## Caption2 text here
 
 Example response:
-# When your product description is on point
+@ When your product description is on point
 ## But the meme template steals the show
 ### #MemeMonday 😂 Can you relate to this hilarious meme about our top-rated air purifier? Share your thoughts and tag a friend who needs a good laugh! 🌬️
 
@@ -717,7 +725,7 @@ Example response:
     // Original string with sections starting with '#' and '##'
 
 // Define regular expressions to match sections starting with '#' and '##'
-const regexCap1 = /#\s*([^\n]*)/;
+const regexCap1 = /@\s*([^\n]*)/;
 const regexCap2 = /##\s*([^\n]*)/;
 const regexCap3 = /###\s*([^\n]*)/;
 
