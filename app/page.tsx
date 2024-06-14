@@ -26,12 +26,12 @@ export default function Home() {
 
       {/* web view for video */}
      <div  className="hidden md:flex justify-center items-center">
-              <iframe height=  '700' className=" rounded-lg	 w-3/4" src="https://www.youtube-nocookie.com/embed/vE8X7y3zMlY?si=hEXTDRrNBHsYZs-O" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" ></iframe>
+              <iframe height=  '700' className=" rounded-lg	 w-3/4" src="https://www.youtube.com/embed/IfJTn7_oSkg?si=gdM-CLf8oMeTm5ye" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen ></iframe>
 
      </div>
      {/*mobile view for video */}
          <div  className="md:hidden flex justify-center items-center">
-              <iframe  className=" rounded-lg	h-96 w-3/4" src="https://www.youtube-nocookie.com/embed/vE8X7y3zMlY?si=hEXTDRrNBHsYZs-O" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" ></iframe>
+              <iframe  className=" rounded-lg	h-96 w-3/4" src="https://www.youtube.com/embed/IfJTn7_oSkg?si=gdM-CLf8oMeTm5ye" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen></iframe>
 
      </div>
      <CTA/>
