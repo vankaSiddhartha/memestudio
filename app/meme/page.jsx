@@ -855,6 +855,7 @@ const params = {
         </div>
      )}
 
+
     {memeUrl?(
         <>
         <div className='flex justify-center items-center m-5'>
@@ -918,7 +919,17 @@ const params = {
       </div>
       </>
       ):(
-      <div className='h-screen'></div>
+      <div className='h-screen flex-col flex justify-start items-center spcae-y-4'>
+       
+        <h1 className='font-base font-bold text-yellow-400'>#Example Prompts</h1>
+        <h1>Create a meme for launch of my app called [your product]'s</h1>
+        <h1>Create a meme for new feature of my app</h1>
+        <h1>Create a meme illustrating why customers love [your product]'s</h1>
+        <h1 className='font-base font-bold text-yellow-400'>#Suggestions </h1>
+        <h1>Write prompt clearly to genrate best output</h1>
+        <h1>Craft a clear, specific prompt for the best meme</h1> 
+        <h1>Be precise: Better prompts, better memes</h1> 
+      </div>
       )}
       </div>
       
