@@ -61,7 +61,7 @@ const handleSignUp = async (e) => {
         localStorage.setItem("auth","yes")
 
         // Proceed with the sign-in flow
-        router.push('/dashbord'); // Navigate to the dashboard page
+        router.push('/meme'); // Navigate to the dashboard page
         return 'Login successful';
       } else {
         console.log('Email is not verified');

@@ -15,24 +15,8 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 1250000
             },
-            {
-                "id": "87743020",
-                "name": "Two Buttons",
-                "url": "https://i.imgflip.com/1g8my4.jpg",
-                "width": 600,
-                "height": 908,
-                "box_count": 3,
-                "captions": 1000500
-            },
-            {
-                "id": "112126428",
-                "name": "Distracted Boyfriend",
-                "url": "https://i.imgflip.com/1ur9b0.jpg",
-                "width": 1200,
-                "height": 800,
-                "box_count": 3,
-                "captions": 1027750
-            },
+          
+         
             {
                 "id": "217743513",
                 "name": "UNO Draw 25 Cards",
@@ -42,24 +26,8 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 556000
             },
-            {
-                "id": "131087935",
-                "name": "Running Away Balloon",
-                "url": "https://i.imgflip.com/261o3j.jpg",
-                "width": 761,
-                "height": 1024,
-                "box_count": 5,
-                "captions": 532250
-            },
-            {
-                "id": "124822590",
-                "name": "Left Exit 12 Off Ramp",
-                "url": "https://i.imgflip.com/22bdq6.jpg",
-                "width": 804,
-                "height": 767,
-                "box_count": 3,
-                "captions": 635250
-            },
+         
+          
             {
                 "id": "222403160",
                 "name": "Bernie I Am Once Again Asking For Your Support",
@@ -78,15 +46,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 426500
             },
-            {
-                "id": "131940431",
-                "name": "Gru's Plan",
-                "url": "https://i.imgflip.com/26jxvz.jpg",
-                "width": 700,
-                "height": 449,
-                "box_count": 4,
-                "captions": 306250
-            },
+   
             {
                 "id": "129242436",
                 "name": "Change My Mind",
@@ -105,15 +65,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 342500
             },
-            {
-                "id": "135256802",
-                "name": "Epic Handshake",
-                "url": "https://i.imgflip.com/28j0te.jpg",
-                "width": 900,
-                "height": 645,
-                "box_count": 3,
-                "captions": 212000
-            },
+       
             {
                 "id": "438680",
                 "name": "Batman Slapping Robin",
@@ -123,15 +75,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 610750
             },
-            {
-                "id": "80707627",
-                "name": "Sad Pablo Escobar",
-                "url": "https://i.imgflip.com/1c1uej.jpg",
-                "width": 720,
-                "height": 709,
-                "box_count": 3,
-                "captions": 199000
-            },
+     
             {
                 "id": "252600902",
                 "name": "Always Has Been",
@@ -150,24 +94,8 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 355250
             },
-            {
-                "id": "247375501",
-                "name": "Buff Doge vs. Cheems",
-                "url": "https://i.imgflip.com/43a45p.png",
-                "width": 937,
-                "height": 720,
-                "box_count": 4,
-                "captions": 330500
-            },
-            {
-                "id": "322841258",
-                "name": "Anakin Padme 4 Panel",
-                "url": "https://i.imgflip.com/5c7lwq.png",
-                "width": 768,
-                "height": 768,
-                "box_count": 3,
-                "captions": 106000
-            },
+    
+        
             {
                 "id": "188390779",
                 "name": "Woman Yelling At Cat",
@@ -186,15 +114,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 242500
             },
-            {
-                "id": "309868304",
-                "name": "Trade Offer",
-                "url": "https://i.imgflip.com/54hjww.jpg",
-                "width": 607,
-                "height": 794,
-                "box_count": 3,
-                "captions": 98750
-            },
+         
             {
                 "id": "102156234",
                 "name": "Mocking Spongebob",
@@ -213,15 +133,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 144500
             },
-            {
-                "id": "93895088",
-                "name": "Expanding Brain",
-                "url": "https://i.imgflip.com/1jwhww.jpg",
-                "width": 857,
-                "height": 1202,
-                "box_count": 4,
-                "captions": 436500
-            },
+          
             {
                 "id": "148909805",
                 "name": "Monkey Puppet",
@@ -240,15 +152,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 171750
             },
-            {
-                "id": "79132341",
-                "name": "Bike Fall",
-                "url": "https://i.imgflip.com/1b42wl.jpg",
-                "width": 500,
-                "height": 680,
-                "box_count": 3,
-                "captions": 118000
-            },
+        
             {
                 "id": "61544",
                 "name": "Success Kid",
@@ -258,15 +162,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 136000
             },
-            {
-                "id": "180190441",
-                "name": "They're The Same Picture",
-                "url": "https://i.imgflip.com/2za3u1.jpg",
-                "width": 1363,
-                "height": 1524,
-                "box_count": 3,
-                "captions": 156250
-            },
+        
             {
                 "id": "61579",
                 "name": "One Does Not Simply",
@@ -276,15 +172,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 450500
             },
-            {
-                "id": "1035805",
-                "name": "Boardroom Meeting Suggestion",
-                "url": "https://i.imgflip.com/m78d.jpg",
-                "width": 500,
-                "height": 649,
-                "box_count": 4,
-                "captions": 383250
-            },
+   
             {
                 "id": "101470",
                 "name": "Ancient Aliens",
@@ -294,15 +182,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 357000
             },
-            {
-                "id": "195515965",
-                "name": "Clown Applying Makeup",
-                "url": "https://i.imgflip.com/38el31.jpg",
-                "width": 750,
-                "height": 798,
-                "box_count": 4,
-                "captions": 109500
-            },
+
             {
                 "id": "3218037",
                 "name": "This Is Where I'd Put My Trophy If I Had One",
@@ -357,15 +237,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 299250
             },
-            {
-                "id": "100777631",
-                "name": "Is This A Pigeon",
-                "url": "https://i.imgflip.com/1o00in.jpg",
-                "width": 1587,
-                "height": 1425,
-                "box_count": 3,
-                "captions": 211000
-            },
+   
             {
                 "id": "224015000",
                 "name": "Bernie Sanders Once Again Asking",
@@ -375,15 +247,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 44750
             },
-            {
-                "id": "252758727",
-                "name": "Mother Ignoring Kid Drowning In A Pool",
-                "url": "https://i.imgflip.com/46hhvr.jpg",
-                "width": 782,
-                "height": 1032,
-                "box_count": 4,
-                "captions": 50750
-            },
+
             {
                 "id": "28251713",
                 "name": "Oprah You Get A",
@@ -402,24 +266,8 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 55000
             },
-            {
-                "id": "226297822",
-                "name": "Panik Kalm Panik",
-                "url": "https://i.imgflip.com/3qqcim.png",
-                "width": 640,
-                "height": 881,
-                "box_count": 3,
-                "captions": 203750
-            },
-            {
-                "id": "166969924",
-                "name": "Flex Tape",
-                "url": "https://i.imgflip.com/2reqtg.png",
-                "width": 510,
-                "height": 572,
-                "box_count": 3,
-                "captions": 64500
-            },
+
+
             {
                 "id": "259237855",
                 "name": "Laughing Leo",
@@ -429,24 +277,8 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 93750
             },
-            {
-                "id": "114585149",
-                "name": "Inhaling Seagull",
-                "url": "https://i.imgflip.com/1w7ygt.jpg",
-                "width": 1269,
-                "height": 2825,
-                "box_count": 4,
-                "captions": 231750
-            },
-            {
-                "id": "135678846",
-                "name": "Who Killed Hannibal",
-                "url": "https://i.imgflip.com/28s2gu.jpg",
-                "width": 1280,
-                "height": 1440,
-                "box_count": 3,
-                "captions": 130000
-            },
+
+ 
             {
                 "id": "177682295",
                 "name": "You Guys are Getting Paid",
@@ -546,15 +378,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 56250
             },
-            {
-                "id": "155067746",
-                "name": "Surprised Pikachu",
-                "url": "https://i.imgflip.com/2kbn1e.jpg",
-                "width": 1893,
-                "height": 1893,
-                "box_count": 3,
-                "captions": 231250
-            },
+
             {
                 "id": "5496396",
                 "name": "Leonardo Dicaprio Cheers",
@@ -600,15 +424,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 217250
             },
-            {
-                "id": "134797956",
-                "name": "American Chopper Argument",
-                "url": "https://i.imgflip.com/2896ro.jpg",
-                "width": 640,
-                "height": 1800,
-                "box_count": 5,
-                "captions": 174000
-            },
+
             {
                 "id": "61520",
                 "name": "Futurama Fry",
@@ -645,15 +461,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 58500
             },
-            {
-                "id": "171305372",
-                "name": "Soldier protecting sleeping child",
-                "url": "https://i.imgflip.com/2tzo2k.jpg",
-                "width": 540,
-                "height": 440,
-                "box_count": 3,
-                "captions": 33500
-            },
+
             {
                 "id": "234202281",
                 "name": "AJ Styles & Undertaker",
@@ -663,15 +471,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 32250
             },
-            {
-                "id": "267889046",
-                "name": "bell curve",
-                "url": "https://i.imgflip.com/4fhsie.png",
-                "width": 675,
-                "height": 499,
-                "box_count": 4,
-                "captions": 21500
-            },
+
             {
                 "id": "216523697",
                 "name": "All My Homies Hate",
@@ -699,15 +499,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 39250
             },
-            {
-                "id": "6235864",
-                "name": "Finding Neverland",
-                "url": "https://i.imgflip.com/3pnmg.jpg",
-                "width": 423,
-                "height": 600,
-                "box_count": 3,
-                "captions": 157000
-            },
+
             {
                 "id": "371619279",
                 "name": "Megamind no bitches",
@@ -744,15 +536,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 53000
             },
-            {
-                "id": "342785297",
-                "name": "Gus Fring we are not the same",
-                "url": "https://i.imgflip.com/5o32tt.png",
-                "width": 700,
-                "height": 1000,
-                "box_count": 3,
-                "captions": 33250
-            },
+
             {
                 "id": "137501417",
                 "name": "Friendship ended",
@@ -798,24 +582,8 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 152750
             },
-            {
-                "id": "142009471",
-                "name": "is this butterfly",
-                "url": "https://i.imgflip.com/2cjr7j.jpg",
-                "width": 1587,
-                "height": 1425,
-                "box_count": 3,
-                "captions": 27000
-            },
-            {
-                "id": "187102311",
-                "name": "Three-headed Dragon",
-                "url": "https://i.imgflip.com/33e92f.jpg",
-                "width": 680,
-                "height": 544,
-                "box_count": 4,
-                "captions": 34750
-            },
+
+
             {
                 "id": "162372564",
                 "name": "Domino Effect",
@@ -825,15 +593,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 28750
             },
-            {
-                "id": "206151308",
-                "name": "Spider Man Triple",
-                "url": "https://i.imgflip.com/3eqjd8.jpg",
-                "width": 600,
-                "height": 551,
-                "box_count": 3,
-                "captions": 25500
-            },
+
             {
                 "id": "177984372",
                 "name": "What Gives People Feelings of Power",
@@ -843,24 +603,8 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 36250
             },
-            {
-                "id": "145139900",
-                "name": "Scooby doo mask reveal",
-                "url": "https://i.imgflip.com/2eeunw.jpg",
-                "width": 720,
-                "height": 960,
-                "box_count": 4,
-                "captions": 23750
-            },
-            {
-                "id": "478588645",
-                "name": "Borat 2 Tonight Queen??",
-                "url": "https://i.imgflip.com/7wxtd1.png",
-                "width": 845,
-                "height": 674,
-                "box_count": 3,
-                "captions": 9250
-            },
+
+
             {
                 "id": "20007896",
                 "name": "c'mon do something",
@@ -897,15 +641,7 @@ const MemeGenrator = () => {
                 "box_count": 2,
                 "captions": 12000
             },
-            {
-                "id": "72525473",
-                "name": "say the line bart! simpsons",
-                "url": "https://i.imgflip.com/176h0h.jpg",
-                "width": 395,
-                "height": 650,
-                "box_count": 3,
-                "captions": 24000
-            }
+   
         ]
   const [product,setProduct] = useState('')
   const [promptO,setPrompt0] = useState('')
@@ -936,15 +672,18 @@ const MemeGenrator = () => {
     setLoading(true)
     console.log("prouct: "+product)
  //   e.preventDefault();
- const randomNumber = Math.floor(Math.random() * 100);
+ const randomNumber = Math.floor(Math.random() * a.length);
  const memeName = a[randomNumber].name
+ const captionCount = a[randomNumber].box_count
     console.log("submitted");
 const prompt = `
-Given the meme template "${memeName}" related to the topic "${promptO}", create two engaging and relevant captions for a meme. Follow these guidelines:
+Given the meme template "${memeName}" create a meme related to the topic "${promptO}", create two engaging and relevant captions for a meme. Follow these guidelines:
 
-1. Caption 1:
-   - Start with a single hashtag (#) followed by a concise, catchy caption directly tied to the product description.
-   - Aim for a caption that piques interest, highlights a key feature or benefit, or showcases the product's value proposition.
+2. Caption 1:
+-Start with a single hashtag (#) followed by a space, then a concise, catchy caption directly tied to the topic or product.
+-Ensure that if the hashtag contains multiple words, they are separated by spaces (e.g., "# I love goats" not "#Ilovegoats").
+-Aim for a caption that piques interest, highlights a key aspect, or showcases value.
+-Keep it short and impactful, ideally under 10 words.
    
 
 2. Caption 2:
@@ -952,6 +691,8 @@ Given the meme template "${memeName}" related to the topic "${promptO}", create 
    - This caption should provide an additional humorous, insightful, or relatable angle related to "${promptO}".
    - Aim for a caption that resonates with the target audience, reinforces the meme's theme, or adds an unexpected twist.
    - Keep it concise, but feel free to use slightly longer captions if needed.
+
+     
 3. Caption for the post:
    - Start with three hashtags (###) followed by a caption that introduces the meme and encourages engagement.
    - This caption should provide context, highlight the relevance of the meme to the product or topic, and prompt the audience to interact or share their thoughts.
