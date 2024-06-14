@@ -1,5 +1,7 @@
+"use client"
 import Link from 'next/link';
 import React from 'react'
+import { useRouter } from 'next/navigation';
 import { CiLinkedin } from "react-icons/ci";
 import { CiInstagram } from "react-icons/ci";
 
@@ -14,6 +16,8 @@ const NavBar = () => {
     fontWeight: 'bold', // Adjust the font weight as needed
     display: 'inline-block',
   };
+  const router = useRouter()
+  
   return (
     <div className='text-white flex  items-center justify-between'>
         <div>
@@ -28,9 +32,9 @@ const NavBar = () => {
 
         </div>
         <div className='flex space-x-2'>
-            <CiLinkedin className='h-7 w-7'/>
-            <CiInstagram className='h-7 w-7' />
-            <FaSquareXTwitter className='h-7 w-7' />
+            <CiLinkedin className='h-7 w-7' onClick={()=>{router.push("https://www.linkedin.com/in/vanka-siddhartha-35b767229/")}} />
+            <CiInstagram className='h-7 w-7' onClick={()=>{router.push("https://www.instagram.com/siddhartha100000000/")}}/>
+            <FaSquareXTwitter className='h-7 w-7' onClick={()=>{router.push("https://x.com/Siddhartha13691")}} />
 
 
 
