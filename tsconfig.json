@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/video.jsx", "app/components/memeComponents/first-meme.jsx", "app/meme/page.jsx", "app/components/prompt-input.jsx", "app/components/team.jsx"],
   "exclude": ["node_modules"]
 }
